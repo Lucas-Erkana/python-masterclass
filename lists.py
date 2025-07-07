@@ -19,12 +19,3 @@ print(names)
 names.sort()
 print(names)
 
-#tuples
-top_scores = (100, 95, 92, 92, 88, 85)
-
-
-#tuples are immutable
-
-
-
-#tuples methods
